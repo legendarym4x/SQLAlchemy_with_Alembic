@@ -1,4 +1,4 @@
-## Homework 07
+## SQLAlchemy with Alembic
 
 We implemented our SQLAlchemy models for tables:
 
